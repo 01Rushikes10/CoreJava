@@ -1,1 +1,1 @@
-# CoreJava
+# CoreJava Full information
